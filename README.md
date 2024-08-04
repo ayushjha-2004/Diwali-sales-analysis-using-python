@@ -1,1 +1,1 @@
-# Diwali-sales-analysis-using-python
+This is a diwali sales analysis using python where I utilized libraries like seaborn, matplotlib for data visualization, pandas for data manipulation and numpy for doing complex operation on data and I used jupyter notebook and excel sheet for storing data. It tells us the visualization of sales over time, the most selling products and the purchasing power of the people.
